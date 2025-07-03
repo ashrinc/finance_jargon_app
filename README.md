@@ -1,7 +1,7 @@
 # 💰 Financial Jargon Translator
 -There are 2 versions of the app are available 
 - Use mainapp.py if you want the app to work *only for financial inputs* (uses a classifier).
-- Trained the classifier in google colab the code is also provided as training_classifier.py
+- Trained the classifier in google colab the code is also provided as training_classifier(1).py
 - 
   - For this, download and place the model/ folder from the link below in your project root.
   - 📦 Download the full model/ folder: 
