@@ -2,9 +2,8 @@ import streamlit as st
 import requests
 from PyPDF2 import PdfReader
 
-from sentence_transformers import SentenceTransformer
 import faiss
-import numpy as np
+
 
 from io import BytesIO
 
