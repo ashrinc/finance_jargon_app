@@ -88,8 +88,8 @@ def query_granite(prompt_text, access_token, project_id):
         return f"⚠️ Error {response.status_code}: {response.text}"
 
 # ---- Secrets for IBM API ----
-api_key = st.secrets["IBM_API_KEY"]
-project_id = st.secrets["IBM_PROJECT_ID"]
+api_key = st.secrets["XtxaHBMv4cngbgwuplO7zRUMjkA9yCq5pwLNpZ2klrg-"]
+project_id = st.secrets["aaba2a06-3ffd-4d72-9507-2c25082e359d"]
 
 # ---- App UI ----
 st.markdown("<h1 style='text-align:center;'>💰 Financial Jargon Translator</h1>", unsafe_allow_html=True)
