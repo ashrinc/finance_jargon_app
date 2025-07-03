@@ -3,6 +3,4 @@ PyPDF2==3.0.1
 requests==2.32.4
 faiss-cpu==1.11.0
 sentence-transformers==2.3.1
-scikit-learn==1.7.0
-scipy==1.15.3
-numpy==1.23.5
+
